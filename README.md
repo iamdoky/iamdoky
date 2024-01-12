@@ -1,13 +1,8 @@
-<div align="center"> 
-
 <!--
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=iamdoky😏&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdoky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :pencil2: Study log 🌱
-
-
 -->
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&=0,2,2,2,2,3&height=300&section=header&text=@iamdoky&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Thanks%20for%20visiting%20my%20GitHub&descAlignY=51&descAlign=62)
@@ -36,20 +31,3 @@
   
 <br/>
 <br/>   
-  
-</div>
-
-<!--
-**iamdoky/iamdoky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
