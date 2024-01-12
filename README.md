@@ -12,8 +12,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdoky&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdoky&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
   
 ##  :clipboard: Tech Stack
 
