@@ -5,6 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdoky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+#### :pencil2: Study log 🌱
+
+
 -->
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&=0,2,2,2,2,3&height=300&section=header&text=@iamdoky&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Thanks%20for%20visiting%20my%20GitHub&descAlignY=51&descAlign=62)
@@ -13,15 +16,13 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdoky&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-#### Welcome my github profile :innocent:
 
- <br/>
- <br/>
+<br/>
+<br/>
   
-####  :clipboard: Skils
+  ####  :clipboard: Skils
   
- <br/>
+  <br/>
  
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -33,15 +34,9 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-007ACC?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
-   <br/>
-   <br/>
-
-#### :pencil2: Study log 🌱
- 
-   
-  <br/>
+<br/>
+<br/>   
   
-
 </div>
 
 <!--
