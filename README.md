@@ -1,6 +1,16 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=iamdoky😏&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdoky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&=0,2,2,2,2,3&height=300&section=header&text=@iamdoky&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Thanks%20for%20visiting%20my%20GitHub&descAlignY=51&descAlign=62)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdoky&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdoky&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
   
 #### Welcome my github profile :innocent:
 
@@ -29,14 +39,6 @@
    
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdoky&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&=0,2,2,2,2,3&height=300&section=header&text=@iamdoky&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Thanks%20for%20visiting%20my%20GitHub&descAlignY=51&descAlign=62)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdoky&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdoky&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
 
