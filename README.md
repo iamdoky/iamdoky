@@ -21,7 +21,6 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-2496ED?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![intellij](https://img.shields.io/badge/IntelliJ-DD1265?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![github](https://img.shields.io/badge/Github-DD1265?style=for-the-badge&logo=Github%20IDEA&logoColor=white)
 
 <br/>
 
